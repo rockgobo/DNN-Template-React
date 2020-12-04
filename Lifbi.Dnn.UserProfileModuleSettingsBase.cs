@@ -14,7 +14,7 @@ using DotNetNuke.Entities.Modules;
 
 namespace Lifbi.Dnn.UserProfileLifbi.Dnn.UserProfile
 {
-    public class Lifbi.Dnn.UserProfileModuleSettingsBase: ModuleSettingsBase
+    public class LifbiDnnUserProfileModuleSettingsBase: ModuleSettingsBase
     {
     }
 }

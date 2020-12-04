@@ -28,7 +28,7 @@ namespace Lifbi.Dnn.UserProfileLifbi.Dnn.UserProfile
     /// 
     /// </summary>
     /// -----------------------------------------------------------------------------
-    public partial class Edit : Lifbi.Dnn.UserProfileModuleBase
+    public partial class Edit : LifbiDnnUserProfileModuleBase
     {
         protected void Page_Load(object sender, EventArgs e)
         {

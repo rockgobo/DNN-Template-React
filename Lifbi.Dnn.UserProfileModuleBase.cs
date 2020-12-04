@@ -14,7 +14,7 @@ using DotNetNuke.Entities.Modules;
 
 namespace Lifbi.Dnn.UserProfileLifbi.Dnn.UserProfile
 {
-    public class Lifbi.Dnn.UserProfileModuleBase : PortalModuleBase
+    public class LifbiDnnUserProfileModuleBase : PortalModuleBase
     {
     }
 }

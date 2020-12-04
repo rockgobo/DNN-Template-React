@@ -36,7 +36,7 @@ namespace Lifbi.Dnn.UserProfileLifbi.Dnn.UserProfile
     /// defined there, as well as properties from DNN such as PortalId, ModuleId, TabId, UserId and many more.
     /// </summary>
     /// -----------------------------------------------------------------------------
-    public partial class Settings : Lifbi.Dnn.UserProfileModuleSettingsBase
+    public partial class Settings : LifbiDnnUserProfileModuleSettingsBase
     {
         #region Base Method Implementations
 

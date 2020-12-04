@@ -32,7 +32,7 @@ namespace Lifbi.Dnn.UserProfileLifbi.Dnn.UserProfile
     /// 
     /// </summary>
     /// -----------------------------------------------------------------------------
-    public partial class View : Lifbi.Dnn.UserProfileModuleBase, IActionable
+    public partial class View : LifbiDnnUserProfileModuleBase, IActionable
     {
         protected void Page_Load(object sender, EventArgs e)
         {
