@@ -103,11 +103,35 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="dist\app.js" />
+    <Content Include="runBabel.js" />
+    <Content Include="src\app.js" />
     <Content Include="Documentation\Documentation.css" />
     <Content Include="Documentation\Documentation.html" />
     <Content Include="Edit.ascx" />
     <Content Include="License.txt" />
     <Content Include="module.css" />
+    <Content Include="node_modules\js-tokens\index.js" />
+    <Content Include="node_modules\loose-envify\cli.js" />
+    <Content Include="node_modules\loose-envify\custom.js" />
+    <Content Include="node_modules\loose-envify\index.js" />
+    <Content Include="node_modules\loose-envify\loose-envify.js" />
+    <Content Include="node_modules\loose-envify\replace.js" />
+    <Content Include="node_modules\object-assign\index.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-dev-runtime.development.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-dev-runtime.production.min.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-dev-runtime.profiling.min.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-runtime.development.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-runtime.production.min.js" />
+    <Content Include="node_modules\react\cjs\react-jsx-runtime.profiling.min.js" />
+    <Content Include="node_modules\react\cjs\react.development.js" />
+    <Content Include="node_modules\react\cjs\react.production.min.js" />
+    <Content Include="node_modules\react\index.js" />
+    <Content Include="node_modules\react\jsx-dev-runtime.js" />
+    <Content Include="node_modules\react\jsx-runtime.js" />
+    <Content Include="node_modules\react\umd\react.development.js" />
+    <Content Include="node_modules\react\umd\react.production.min.js" />
+    <Content Include="node_modules\react\umd\react.profiling.min.js" />
     <Content Include="ReleaseNotes.txt" />
     <Content Include="Settings.ascx" />
     <Content Include="View.ascx" />
@@ -135,6 +159,23 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="web.config" />
+    <Content Include="node_modules\.bin\loose-envify" />
+    <Content Include="node_modules\.bin\loose-envify.cmd" />
+    <Content Include="node_modules\.bin\loose-envify.ps1" />
+    <Content Include="node_modules\js-tokens\CHANGELOG.md" />
+    <Content Include="node_modules\js-tokens\LICENSE" />
+    <Content Include="node_modules\js-tokens\package.json" />
+    <Content Include="node_modules\js-tokens\README.md" />
+    <Content Include="node_modules\loose-envify\LICENSE" />
+    <Content Include="node_modules\loose-envify\package.json" />
+    <Content Include="node_modules\loose-envify\README.md" />
+    <Content Include="node_modules\object-assign\license" />
+    <Content Include="node_modules\object-assign\package.json" />
+    <Content Include="node_modules\object-assign\readme.md" />
+    <Content Include="node_modules\react\build-info.json" />
+    <Content Include="node_modules\react\LICENSE" />
+    <Content Include="node_modules\react\package.json" />
+    <Content Include="node_modules\react\README.md" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
