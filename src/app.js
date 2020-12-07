@@ -8,6 +8,7 @@ function App() {
             <Welcome name="Sara" />
             <Welcome name="Cahal" />
             <Welcome name="Edite" />
+            <Welcome name="Bob" />
         </div>
     );
 }

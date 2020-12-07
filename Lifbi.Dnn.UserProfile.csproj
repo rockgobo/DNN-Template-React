@@ -103,7 +103,10 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="browserify.js" />
     <Content Include="dist\app.js" />
+    <Content Include="env.js" />
+    <Content Include="Gruntfile.js" />
     <Content Include="runBabel.js" />
     <Content Include="src\app.js" />
     <Content Include="Documentation\Documentation.css" />
@@ -176,6 +179,9 @@
     <Content Include="node_modules\react\LICENSE" />
     <Content Include="node_modules\react\package.json" />
     <Content Include="node_modules\react\README.md" />
+    <Content Include="package.json" />
+    <Content Include="package-lock.json" />
+    <Content Include=".babelrc" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
